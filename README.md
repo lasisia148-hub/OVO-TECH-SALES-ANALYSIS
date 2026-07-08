@@ -11,6 +11,7 @@ Management requires a centralized reporting dashboard that answers key business 
 5.  What is the company's overall profitability?
 This dashboard provides answers to these questions in a simple, interactive format:
 <img width="1134" height="603" alt="Screenshot 2026-07-08 063246" src="https://github.com/user-attachments/assets/1b43f597-6706-4ea2-987b-0380469240f8" />
+
 # DATASET INFORMATION
 The dataset contains 2,098 sales transactions with the following fields:
 Column
@@ -24,7 +25,7 @@ Product Category
 Unit Price
 Quantity Sold
 Revenue
-Cost of Goods Sold (COGS)
+Cost of Goods Sold
 Profit
 Sales Representative
 # TOOLS USED
@@ -53,8 +54,8 @@ Metric         |           Value
 3.  Improve sales in lower-performing regions.
 4.  Optimize costs to increase profit margins.
 # Skills Demonstrated
-* Data Analysis
-* Excel Dashboard Development
-* Data Visualization
-* KPI Reporting
-* Business Intelligence
+1. Data Analysis
+2. Excel Dashboard Development
+3. Data Visualization
+4. KPI Reporting
+5. Business Intelligence
