@@ -27,7 +27,7 @@ Revenue
 Cost of Goods Sold (COGS)
 Profit
 Sales Representative
-#TOOLS USED
+# TOOLS USED
 Microsoft Excel
 Pivot Tables
 Pivot Charts
